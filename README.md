@@ -1,3 +1,3 @@
 # FreeCodeCamp
 
-Trilha Q.A
+Trilha Q.A passos iniciais
